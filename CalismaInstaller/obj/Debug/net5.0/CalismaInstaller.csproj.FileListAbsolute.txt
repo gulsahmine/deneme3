@@ -1,0 +1,5 @@
+C:\Users\STUDENT2\Desktop\deneme\CalismaInstaller\obj\Debug\net5.0\CalismaInstaller.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\deneme\CalismaInstaller\obj\Debug\net5.0\CalismaInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Desktop\deneme\CalismaInstaller\obj\Debug\net5.0\CalismaInstaller.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Desktop\deneme\CalismaInstaller\obj\Debug\net5.0\CalismaInstaller.AssemblyInfo.cs
+C:\Users\STUDENT2\Desktop\deneme\CalismaInstaller\obj\Debug\net5.0\CalismaInstaller.csproj.CoreCompileInputs.cache

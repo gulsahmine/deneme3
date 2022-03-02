@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.exe
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.deps.json
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.runtimeconfig.json
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.runtimeconfig.dev.json
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.dll
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\ref\Kutuphane.dll
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\bin\Debug\net5.0\Kutuphane.pdb
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.AssemblyInfo.cs
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.dll
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\ref\Kutuphane.dll
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.pdb
+C:\Users\STUDENT2\Desktop\deneme\Kutuphane\obj\Debug\net5.0\Kutuphane.genruntimeconfig.cache

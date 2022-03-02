@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.exe
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.deps.json
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.runtimeconfig.json
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.runtimeconfig.dev.json
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.dll
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\ref\Calisma11.dll
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\bin\Debug\net5.0\Calisma11.pdb
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.AssemblyInfo.cs
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.dll
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\ref\Calisma11.dll
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.pdb
+C:\Users\STUDENT2\Desktop\deneme\Calisma11\obj\Debug\net5.0\Calisma11.genruntimeconfig.cache
