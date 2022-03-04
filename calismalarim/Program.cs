@@ -1,11 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace calismalarim
 {
     class Program
     {
-        static void Main(string[] args)
-         {
+       static void Main(string[] args)
+        {
                //Yarı çapı verilen çemberin alanını hesaplayınız pi = 3,14
         //     double alan , yaricap , pi =3.14;
         //     System.Console.Write("Yarıçap Değerini Giriniz : ");
@@ -375,11 +376,24 @@ namespace calismalarim
 
 
                //Kullanıcı 0 girene kadar girdiği çift sayıların sayısını ekrana yazdıran program
-         
-                  
-      
-                  
-                           
+          
+              int sayi, sayac = 0;
+              Console.Write("Sayıları Giriniz...:");
+               List<int> sayilar = new List<int>();
+
+             do
+             {
+               sayi = Convert.ToInt32(Console.ReadLine());
+               sayilar.Add(sayi);
+             System.Console.WriteLine(sayilar);
+
+             } while (sayi==0);
+             if(sayi%2==0)
+             {
+                   sayac++;
+             }
+             System.Console.WriteLine( sayac  + "Adet çift sayı girdiniz. ");
+
 
             
                     
@@ -411,6 +425,6 @@ namespace calismalarim
             
 
               
-        }
+       }
     }
 }
