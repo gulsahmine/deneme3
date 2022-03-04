@@ -292,6 +292,94 @@ namespace calismalarim
                      
                   //  }           
                 
+                        // Console Application ile yapılmış olan, bir tamsayı dizisinde 50 den küçük sayıların adetini bulan ve ekrana yazdıran örnek uygulama
+
+                        // int[]sayilar={14,28,15,57,86,98};
+                        // int sayac=0;
+                        // System.Console.Write("Dizideki sayılarımız : "  );
+                        // for ( int i = 0; i < sayilar.Length; i++)
+                        // {
+                        //   System.Console.Write(sayilar[i]);
+                        //   System.Console.Write("  "); 
+                          
+                        //    if (sayilar[i]<50)
+                        //    {
+                        //       sayac++;
+                        //    }
+
+                        // }
+                        //    System.Console.WriteLine();
+                        //    System.Console.Write("50 den küçük sayı adedi : "  + sayac);
+
+                  // Console Application ile yapılmış, içerisinde isimler bulunan string bir diziyi en son elemandan itibaren ekrana yazdıran uygulama örneği
+                
+                  // string[]isimler={ "mine", "özge" , " ecem" , "gözde"};
+                  // Array.Reverse (isimler);
+                  // for(int i =0; i<isimler.Length; i++)
+                  // {
+                  //    System.Console.WriteLine(isimler[i]);
+                  // }
+                         // 10 elemanlı dizi içine kulanıcının 10tane şehir eklemesini sağlayan  Girilen baş harfe göre şehirleri listeleyen program:
+
+                        //  string [] sehirler = new string[3];
+                        //  System.Console.WriteLine(" şehirleri giriniz : "  );
+                        //  for (int i = 0 ; i<3; i++)
+                        //  {
+                        //        sehirler[i] = Console.ReadLine();
+                        //  }
+
+                        //  Array.Sort (sehirler);
+                        //  for (int j = 0; j < 3; j++)
+                        //  {
+                        //        System.Console.Write(sehirler[j]);
+                        //        System.Console.Write( "  " );
+                        //  }
+
+                    //1-100 arasındaki sayıların kullanıcının girdiği sayıya tam olarak bölünenleri ekrana yazdırma
+
+                  //   System.Console.Write("bir sayı giriniz : ");
+                  //   int sayi = int.Parse(Console.ReadLine());
+                  //   System.Console.WriteLine(" Girdiğiniz sayı ile bölünen sayılar : ");
+                  //   for (int i = 1; i < 100; i++)
+                  //   {
+                  //       if (i%sayi==0)
+                  //       {
+                  //             System.Console.WriteLine(i);
+                  //       }  
+                  //   }
+
+                          // Klavyeden girilen yazıyı merdiven şeklinde yazdıran C# Console Programı
+
+            //      System.Console.WriteLine("isminizi giriniz : ");
+            //      String isim=Console.ReadLine();
+            //        for (int i = 0; i <= isim.Length; i++)
+            //     {
+            //       Console.WriteLine(isim.Substring(0, i));
+            //     }
+                    
+                       //Klavyeden girilen metni tersten yazdıran C# Console Örneği
+
+                     
+                     
+            //          Console.Write("Herhangi Bir Yazı Giriniz  : ");
+            // string yazi = Console.ReadLine();
+            // int yaziuzunlugu = yazi.Length;
+ 
+            // for (int i = yaziuzunlugu; i > 0; i--)
+            // {
+            //     Console.Write(yazi.Substring(i - 1, 1));
+            // }
+
+               //Console Üçgen Oluşturma.
+               //Tek Döngü ile Diküçgen Yazdırma
+
+
+               //Kullanıcı 0 girene kadar girdiği çift sayıların sayısını ekrana yazdıran program
+         
+                  
+      
+                  
+                           
 
             
                     

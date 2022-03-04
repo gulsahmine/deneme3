@@ -4,6 +4,6 @@ namespace UsemKutuphane
 {
     class IslemKayit
     {
-        //
+          //
     }
 }
