@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\calismalarim\\calismalarim.csproj": {}
+    "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\calismalarim\\calismalarim.csproj": {
+    "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\calismalarim\\calismalarim.csproj",
-        "projectName": "calismalarim",
-        "projectPath": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\calismalarim\\calismalarim.csproj",
+        "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\TicTacToe\\TicTacToe.csproj",
+        "projectName": "TicTacToe",
+        "projectPath": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\STUDENT2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\calismalarim\\obj\\",
+        "outputPath": "C:\\Users\\STUDENT2\\Documents\\GitHub\\calisma\\deneme\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\STUDENT2\\AppData\\Roaming\\NuGet\\NuGet.Config",
